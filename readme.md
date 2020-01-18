@@ -51,7 +51,7 @@
 
 15.) You get warning because of mail program
 
-16.) Go to <abbr title="">Mail</abbr> program, add you email account and click in top <abbr title="">Mail -> Preferences</abbr>
+16.) Go to <abbr title="">Mail</abbr> program, add your email account and click in top <abbr title="">Mail -> Preferences</abbr>
 
 17.) Click Manage plugins at bottom of window and check field before AltDeploy plugin
 
