@@ -58,3 +58,24 @@
 
 
 ------------
+<p align="center">
+<img src="https://github.com/Matejz90/macos_mojave_ryzen2700_vmware/blob/master/1.jpg?raw=true" alt="1" width="400px"/>
+	
+<img src="https://github.com/Matejz90/macos_mojave_ryzen2700_vmware/blob/master/2.jpg?raw=true" alt="2" width="400px"/>
+
+<img src="https://github.com/Matejz90/macos_mojave_ryzen2700_vmware/blob/master/3.jpg?raw=true" alt="3" width="400px"/>
+
+<img src="https://github.com/Matejz90/macos_mojave_ryzen2700_vmware/blob/master/4.jpg?raw=truevv" alt="4" width="400px"/>
+
+<img src="https://github.com/Matejz90/macos_mojave_ryzen2700_vmware/blob/master/5.jpg?raw=true" alt="5" width="400px"/>
+
+<img src="https://github.com/Matejz90/macos_mojave_ryzen2700_vmware/blob/master/6.jpg?raw=true" alt="6" width="400px"/>
+
+<img src="https://github.com/Matejz90/macos_mojave_ryzen2700_vmware/blob/master/7.jpg?raw=true" alt="7" width="400px"/>
+
+<img src="https://github.com/Matejz90/macos_mojave_ryzen2700_vmware/blob/master/8.jpg?raw=true" alt="8" width="400px"/>
+
+<img src="https://github.com/Matejz90/macos_mojave_ryzen2700_vmware/blob/master/9.jpg?raw=true" alt="9" width="400px"/>
+
+<img src="https://github.com/Matejz90/macos_mojave_ryzen2700_vmware/blob/master/10.jpg?raw=true" alt="10" width="200px" height="400px"/>
+</p>
