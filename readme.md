@@ -7,8 +7,8 @@
 - Windows 10 PRO
 
 ### Tested phones
-- Iphone X
-- Iphone XR
+- Iphone X on 12.1.4
+- Iphone XR on latest SW (i'm wasn't try jailbreak, only cert sideload)
 
 ### Installation
 1.) Download VMware 15.1.0 build-13591040
