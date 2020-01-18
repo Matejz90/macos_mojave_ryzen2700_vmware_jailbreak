@@ -7,7 +7,7 @@
 - Windows 10 PRO
 
 ### Tested phones
-- Iphone X on 12.1.4
+- Iphone X on 12.1.4 with unc0ver jb
 - Iphone XR on latest SW (i wasn't try jailbreak, only cert sideload)
 
 ### Installation
