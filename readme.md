@@ -60,7 +60,7 @@
 ------------
 In AltDeploy v1.1 you need provide your icloud username and icloud password (not app specific password)!
 
-If your icloud accound need app specific password i'm not sure because i allready created long time ago one. 
+If your icloud account need created app specific password i'm not sure because i allready created long time ago mine. 
 
 There is a [Link](https://appleid.apple.com/#!&page=signin) to appleid where you can create yours.
 
