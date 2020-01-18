@@ -21,4 +21,4 @@
       featureCompat.enable = "FALSE"
      *****************************************
 8.) Add USB controller v. 3.0 in VMware->Edit machine
-8.) Start installing Mojave
+8.) Start installing Mojave and select Disk Utility in install
