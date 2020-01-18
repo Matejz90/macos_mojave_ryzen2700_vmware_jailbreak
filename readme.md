@@ -41,7 +41,7 @@
 
 10.) Click red button after complete and start installing OS
 
-11.) When OS is installed go to [Link](https://github.com/pixelomer/AltDeploy/releases/download/v1.1/AltDeploy.zip) ---in MacOS--- and download file (AltDeploy v1.1)
+11.) When OS is installed go to [Link](https://github.com/pixelomer/AltDeploy/releases/download/v1.1/AltDeploy.zip) in MacOS and download file (AltDeploy v1.1)
 
 12.) Open file and program will be terminated because of security options
 
