@@ -19,7 +19,7 @@
 
 4.) Create new virtual machine with MacOS fields (Mojave 10.14)
 
-4.) Go to: C:\Users\ ~~MatejZ90~~\Documents\Virtual Machines\macOS 10.14
+4.) Go to: C:\Users\\~~MatejZ90~~\Documents\Virtual Machines\macOS 10.14
 
 6.) In MacOS 10.14.vmx file change <abbr title="">virtualHW.version</abbr> to:`virtualHW.version = "10"`
 
