@@ -15,7 +15,7 @@
 
 2.) Download .iso image (macOS Mojave ISO by Geekrar.rar) [Link](https://drive.google.com/drive/folders/1NncaD1qpJYmMSvTz8vn5oze6Yt7KgkKE)
 
-3.) Download unlock-master for adding MacOS options in VMware [Link](https://codeload.github.com/paolo-projects/unlocker/zip/master)
+3.) Download unlock-master for adding MacOS options in VMware [Link](https://codeload.github.com/paolo-projects/unlocker/zip/master) and install win-install.cmd with Administrator rights
 
 4.) Create new virtual machine with MacOS fields (Mojave 10.14)
 
