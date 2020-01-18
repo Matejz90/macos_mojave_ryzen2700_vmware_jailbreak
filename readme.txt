@@ -36,4 +36,4 @@ Geforce 1080 TI 11GB
 15.) You get warning because of mail program
 16.) Go to mail program, add you email account and click in top Mail -> Preferences
 17.) Click Manage plugins at bottom of window and check field before AltDeploy plugin
-18.) Go to AltDeploy program and install your unc0ver stuff
+18.) Go to AltDeploy program and install your unc0ver stuff and don't forget to click Trust on iPhone
