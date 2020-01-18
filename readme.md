@@ -65,7 +65,7 @@
 
 <img src="https://github.com/Matejz90/macos_mojave_ryzen2700_vmware/blob/master/3.jpg?raw=true" alt="3" width="400px"/>
 
-<img src="https://github.com/Matejz90/macos_mojave_ryzen2700_vmware/blob/master/4.jpg?raw=truevv" alt="4" width="400px"/>
+<img src="https://github.com/Matejz90/macos_mojave_ryzen2700_vmware/blob/master/4.jpg?raw=true" alt="4" width="400px"/>
 
 <img src="https://github.com/Matejz90/macos_mojave_ryzen2700_vmware/blob/master/5.jpg?raw=true" alt="5" width="400px"/>
 
@@ -77,5 +77,5 @@
 
 <img src="https://github.com/Matejz90/macos_mojave_ryzen2700_vmware/blob/master/9.jpg?raw=true" alt="9" width="400px"/>
 
-<img src="https://github.com/Matejz90/macos_mojave_ryzen2700_vmware/blob/master/10.jpg?raw=true" alt="10" width="200px" height="400px"/>
+<img src="https://github.com/Matejz90/macos_mojave_ryzen2700_vmware/blob/master/10.jpg?raw=true" alt="10" height="380px" width="400px"/>
 </p>
