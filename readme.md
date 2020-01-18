@@ -57,6 +57,12 @@
 
 18.) Go back to <abbr title="">AltDeploy v1.1</abbr> program and install your unc0ver stuff and don't forget to click <abbr title="">Trust</abbr> on iPhone
 
+------------
+In AltDeploy v1.1 you need provide your icloud username and icloud password (not app specific password)!
+
+If your icloud accound need app specific password i'm not sure because i allready created long time ago one. 
+
+There is a [Link](https://appleid.apple.com/#!&page=signin) to appleid where you can create yours.
 
 ------------
 <p align="center">
