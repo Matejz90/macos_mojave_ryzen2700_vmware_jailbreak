@@ -17,9 +17,9 @@
 
 3.) Download unlock-master for adding MacOS options in VMware [Link](https://codeload.github.com/paolo-projects/unlocker/zip/master) and when you have installed VMware 15.1.0 run win-install.cmd with Administrator rights
 
-4.) Create new virtual machine with MacOS fields (Mojave 10.14)
+4.) Create new virtual machine with MacOS fields (Mojave 10.14) and in Edit virtual machine settings -->CD/DVD(SATA) select your extracted .iso file from rar (Desktop?)
 
-4.) Go to: C:\Users\\~~MatejZ90~~\Documents\Virtual Machines\macOS 10.14
+5.) Go to: C:\Users\\~~MatejZ90~~\Documents\Virtual Machines\macOS 10.14
 
 6.) In MacOS 10.14.vmx file change <abbr title="">virtualHW.version</abbr> to:`virtualHW.version = "10"`
 
