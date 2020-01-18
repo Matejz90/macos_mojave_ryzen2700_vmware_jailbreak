@@ -24,7 +24,7 @@
 6.) In MacOS 10.14.vmx file change <abbr title="">virtualHW.version</abbr> to:`virtualHW.version = "10"`
 
  7.) For <abbr title="">Ryzen 2700</abbr> add theese lines in file:
-<pre> smc.version = "0"
+<pre>      smc.version = "0"
       cpuid.0.eax = “0000:0000:0000:0000:0000:0000:0000:1011”
       cpuid.0.ebx = “0111:0101:0110:1110:0110:0101:0100:0111”
       cpuid.0.ecx = “0110:1100:0110:0101:0111:0100:0110:1110”
