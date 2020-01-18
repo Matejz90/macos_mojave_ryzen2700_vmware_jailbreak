@@ -6,7 +6,7 @@
 - Geforce 1080 TI 11GB
 - Windows 10 PRO
 
-### Tested phones
+### Tested phones where work this DIY
 - Iphone X on 12.1.4 with unc0ver jb
 - Iphone XR on latest SW (i wasn't try jailbreak, only cert sideload)
 
