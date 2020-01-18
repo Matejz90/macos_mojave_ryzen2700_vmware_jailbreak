@@ -8,7 +8,7 @@
 
 ### Tested phones
 - Iphone X on 12.1.4
-- Iphone XR on latest SW (i'm wasn't try jailbreak, only cert sideload)
+- Iphone XR on latest SW (i wasn't try jailbreak, only cert sideload)
 
 ### Installation
 1.) Download VMware 15.1.0 build-13591040
