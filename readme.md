@@ -58,16 +58,3 @@
 
 
 ------------
-<p align="center">
-<img src="https://raw.githubusercontent.com/Matejz90/macos_mojave_ryzen2700_vmware/master/1.jpg?token=ALKOKBIQPH5QR3PNGDNEP5S6EMGIU" alt="1" width="400px"/>
-<img src="https://raw.githubusercontent.com/Matejz90/macos_mojave_ryzen2700_vmware/master/2.jpg?token=ALKOKBLFMDCLONAWNSY2OCC6EMGSQ" alt="1" width="400px"/>
-<img src="https://raw.githubusercontent.com/Matejz90/macos_mojave_ryzen2700_vmware/master/3.jpg?token=ALKOKBO2ARZBLR3LIKK4JN26EMGSW" alt="1" width="400px"/>
-<img src="https://raw.githubusercontent.com/Matejz90/macos_mojave_ryzen2700_vmware/master/4.jpg?token=ALKOKBLASLRVRYB5IRTGDK26EMGS6" alt="1" width="400px"/>
-<img src="https://raw.githubusercontent.com/Matejz90/macos_mojave_ryzen2700_vmware/master/5.jpg?token=ALKOKBOBGC6GSUB6QCMC3EK6EMGTG" alt="1" width="400px"/>
-<img src="https://raw.githubusercontent.com/Matejz90/macos_mojave_ryzen2700_vmware/master/5.jpg?token=ALKOKBOBGC6GSUB6QCMC3EK6EMGTG" alt="1" width="400px"/>
-<img src="https://raw.githubusercontent.com/Matejz90/macos_mojave_ryzen2700_vmware/master/6.jpg?token=ALKOKBKI34K2GX6ZONO2ZSK6EMGTK" alt="1" width="400px"/>
-<img src="https://raw.githubusercontent.com/Matejz90/macos_mojave_ryzen2700_vmware/master/7.jpg?token=ALKOKBMRM76H2K2DXQDV2QS6EMGTQ" alt="1" width="400px"/>
-<img src="https://raw.githubusercontent.com/Matejz90/macos_mojave_ryzen2700_vmware/master/8.jpg?token=ALKOKBKB6AMHYS6J2FK4PO26EMGUC" alt="1" width="400px"/>
-<img src="https://raw.githubusercontent.com/Matejz90/macos_mojave_ryzen2700_vmware/master/9.jpg?token=ALKOKBKG7BZ2PEHMQPW4VS26EMHGS" alt="1" width="400px"/>
-<img src="https://raw.githubusercontent.com/Matejz90/macos_mojave_ryzen2700_vmware/master/10.jpg?token=ALKOKBLQZXTODSKAOGORNZS6EMHHO" alt="1" width="200px" height="400px"/>
-</p>
