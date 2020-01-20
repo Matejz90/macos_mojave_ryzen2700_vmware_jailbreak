@@ -65,6 +65,9 @@ If your icloud account need created app specific password i'm not sure because i
 There is a [Link](https://appleid.apple.com/#!&page=signin) to appleid where you can create yours.
 
 ------------
+20.01.2020: Now i tried install AltServer v.1.1.2.0 on Windows but without luck because my iPhone is on iOS 12.1.4 and minimal requirement for AltServer is 12.2 
+
+------------
 <p align="center">
 <img src="https://github.com/Matejz90/macos_mojave_ryzen2700_vmware/blob/master/1.jpg?raw=true" alt="1" width="400px"/>
 	
