@@ -13,7 +13,7 @@
 ### Installation
 1.) Download VMware 15.1.0 build-13591040
 
-2.) Download .iso image (macOS Mojave ISO by Geekrar.rar) [Link](https://drive.google.com/drive/folders/1NncaD1qpJYmMSvTz8vn5oze6Yt7KgkKE) - password for rar is: Geekrar.com
+2.) Download .iso image (macOS Mojave ISO by Geekrar.rar) [Link](https://drive.google.com/drive/folders/1NncaD1qpJYmMSvTz8vn5oze6Yt7KgkKE) - password for rar is: `Geekrar.com`
 
 3.) Download unlock-master for adding MacOS options in VMware [Link](https://codeload.github.com/paolo-projects/unlocker/zip/master) and when you have installed VMware 15.1.0 run win-install.cmd with Administrator rights
 
